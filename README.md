@@ -99,7 +99,3 @@ The **stake** is **medium to high risk**: while the actions affect marketing out
 - **C. Code & Data:** Bootstrap scripts and descriptive analysis in `/analysis`.  
 - **D. Ethical Checklist:** Based on transparency, fairness, and consent principles.
 
----
-
-## 📂 Suggested Repository Structure  
-
